@@ -274,8 +274,8 @@ analytics-salary-predictor/
 ### Clone Repository
 
 ```bash
-git clone <your-repository-url>
-cd career-gps
+git clone https://github.com/krishnendhums7-png/analytics-salary-predictor.git
+cd analytics-salary-predictor
 ```
 
 ### Install Dependencies
@@ -312,8 +312,6 @@ This project strengthened my skills in:
 **Krishnendhu M S**
 
 MSc Data Analytics & Computational Science
-
-💼 LinkedIn: [Krishnendhu M S](www.linkedin.com/in/krishnendhu-m-s-292135379)
 
 
 ---

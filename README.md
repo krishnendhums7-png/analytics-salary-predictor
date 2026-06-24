@@ -313,7 +313,5 @@ This project strengthened my skills in:
 
 MSc Data Analytics & Computational Science
 
-🔗 GitHub: [Krishnendhu M S](www.linkedin.com/in/krishnendhu-m-s-292135379)
 
-![GitHub](https://github.com/krishnendhums7-png)
 ---

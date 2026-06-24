@@ -4,7 +4,7 @@ An end-to-end Data Analytics and Machine Learning project that analyzes LinkedIn
 
 ## 🚀 Live Demo
 
-🌐 Streamlit App: *(Add your Streamlit deployment link here after deployment)*
+🌐 [Launch Salary Predictor](https://analytics-salary-predictor-b8k9etzzdnsbvkcknogbah.streamlit.app/)
 
 ---
 
@@ -312,6 +312,8 @@ This project strengthened my skills in:
 **Krishnendhu M S**
 
 MSc Data Analytics & Computational Science
+
+💼 LinkedIn: [Krishnendhu M S](www.linkedin.com/in/krishnendhu-m-s-292135379)
 
 
 ---

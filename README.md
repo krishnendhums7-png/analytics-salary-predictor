@@ -4,7 +4,7 @@ An end-to-end Data Analytics and Machine Learning project that analyzes LinkedIn
 
 ## 🚀 Live Demo
 
-🌐 Streamlit App: *(Add your Streamlit deployment link here after deployment)*
+🌐 [Launch Salary Predictor](https://analytics-salary-predictor-frdfjjm6ymarzzsyybcmbl.streamlit.app/)
 
 ---
 

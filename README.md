@@ -4,7 +4,7 @@ An end-to-end Data Analytics and Machine Learning project that analyzes LinkedIn
 
 ## 🚀 Live Demo
 
-🌐 [Launch Salary Predictor](https://analytics-salary-predictor-b8k9etzzdnsbvkcknogbah.streamlit.app/)
+🌐 Streamlit App: *(Add your Streamlit deployment link here after deployment)*
 
 ---
 
@@ -143,6 +143,24 @@ The Random Forest model achieved the best predictive performance and was selecte
 
 ---
 
+## ⚠️ Model Limitations
+
+Although the original LinkedIn dataset contained **123,849 job postings**, only **435 records** contained usable salary information after data cleaning and preprocessing.
+
+As a result, the salary prediction model should be considered a **baseline estimator** rather than a highly accurate production-ready system.
+
+The primary value of this project lies in:
+
+- Analytics job market analysis
+- Skill demand analysis
+- Salary trend exploration
+- Career insights for aspiring analytics professionals
+- Demonstrating end-to-end data analytics and machine learning workflows
+
+
+---
+
+
 ## 🖥️ Streamlit Application
 
 The deployed application allows users to:
@@ -274,8 +292,8 @@ analytics-salary-predictor/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/krishnendhums7-png/analytics-salary-predictor.git
-cd analytics-salary-predictor
+git clone <your-repository-url>
+cd career-gps
 ```
 
 ### Install Dependencies
@@ -307,11 +325,18 @@ This project strengthened my skills in:
 
 ---
 
+## 🚀 Future Enhancements
+
+- Integrate additional salary datasets
+- Include skills as prediction features
+- Improve model performance through advanced feature engineering
+- Deploy a cloud-hosted production version
+- Add salary trend forecasting capabilities
+
+---
+
 ## 👨‍💻 Author
 
 **Krishnendhu M S**
 
 MSc Data Analytics & Computational Science
-
-
----
